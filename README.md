@@ -12,3 +12,4 @@ Ini repository
 Disini kita melakukan perubahan
 ini perubahan oleh pando
 >>>>>>> origin/main
+tambahan fitur -1
